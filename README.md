@@ -20,8 +20,6 @@ Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" alt="tailwind" width="40" height="40" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40" /> &nbsp;
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -37,6 +35,6 @@ Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in
 
 ### :fire: My Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007)&nbsp;
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aargon007)
