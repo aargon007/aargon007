@@ -8,7 +8,7 @@
 
 Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in front-end technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, ES6, React, Express.js, Figma , Firebase Auth etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals, Cyber security.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aargon)
+- :mailbox:How to reach me: [![Linkedin Badge]](https://www.linkedin.com/in/aargon)
 
 ---
 
@@ -29,6 +29,6 @@ Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007)]
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aargon007&theme=dark&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aargon007)]
