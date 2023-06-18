@@ -4,9 +4,10 @@
 
 ---
 
-### About Me :
+### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
+---
 
-Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in front-end technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, ES6, React, Express.js, Figma , Firebase Auth etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals, Cyber security.
+Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in front-end technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, MUI, Javascript, ES6, React.js, React Router, Tanstack Query, Express.js, Jsonwebtoken, Mongodb, Node.js, Figma, Firebase Auth etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals, Cyber security.
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/aargon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
