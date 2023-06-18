@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/0c4hXx6/Yellow-Corporate-Linked-In-Banner.png"/>
+  <img src="https://i.ibb.co/MgZvNBR/55.png"/>
 </div>
 
 ---
