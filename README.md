@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.ibb.co/MgZvNBR/55.png"/>
+  <img src="https://i.ibb.co/MgZvNBR/55.png" alt="cover"/>
 </div>
 
 ---
