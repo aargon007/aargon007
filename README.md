@@ -1,7 +1,8 @@
 <div>
   <img src="https://i.ibb.co/MgZvNBR/55.png" alt="cover" style="height:500"/>
+  ![alt text](https://i.ibb.co/MgZvNBR/55.png)
 </div>
-![alt text]("https://i.ibb.co/MgZvNBR/55.png")
+
 ---
 
 ### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
