@@ -1,4 +1,4 @@
-<div id="header">
+<div>
   <img src="https://i.ibb.co/MgZvNBR/55.png"/>
 </div>
 
