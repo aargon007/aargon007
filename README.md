@@ -1,6 +1,6 @@
 <div>
   <img src="https://i.ibb.co/MgZvNBR/55.png" alt="cover" style="height:500"/>
-  [<img alt="alt_text" width="40px" src="https://i.ibb.co/MgZvNBR/55.png" />](https://i.ibb.co/MgZvNBR/55.png)/)
+  [<img alt="alt_text" width="540px" src="https://i.ibb.co/MgZvNBR/55.png" />](https://i.ibb.co/MgZvNBR/55.png)
 </div>
 
 ---
