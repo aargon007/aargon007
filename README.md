@@ -1,7 +1,7 @@
 <div>
   <img src="https://i.ibb.co/MgZvNBR/55.png" alt="cover"/>
 </div>
-
+<img src="https://i.ibb.co/MgZvNBR/55.png" alt="cover"/>
 ---
 
 ### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
