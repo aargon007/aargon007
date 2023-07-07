@@ -1,4 +1,5 @@
-https://i.ibb.co/MgZvNBR/55.png
+
+<img src="https://i.ibb.co/MgZvNBR/55.png" alt="LinkedIn Badge"/>
 ---
 
 ### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
