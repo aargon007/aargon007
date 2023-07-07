@@ -1,11 +1,11 @@
 
-<img src="https://i.ibb.co/MgZvNBR/55.png" alt="LinkedIn Badge"/>
----
 
 ### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
 ---
 
-Hi, My name is Md Muhaiminul and I am a Front-End web developer, specializing in front-end technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, MUI, Javascript, ES6, React.js, React Router, Tanstack Query, Express.js, Jsonwebtoken, Mongodb, Node.js, Figma, Firebase Auth etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals, Cyber security.
+I'm a MERN stack developer based in Jashore, Bangladesh. I help startups launch and grow their products. I design and code beautifully simple things, and I love what I do. I am specializing in web technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, ES6, React.js, React Router, Tanstack Query, Express.js, MongoDB, Node.js, Jsonwebtoken, Next.js, REST APIs, Figma , Firebase Auth etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals, Cyber security.
+
+I am always looking for new challenges and oppurtunities to expand my skills and knowledge, and I am excited to see where my passion for web development will take me.
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/aargon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
