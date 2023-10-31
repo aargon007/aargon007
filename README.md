@@ -4,9 +4,10 @@
 
 ### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
 
-<p align="justify">I'm a MERN stack developer based in Jashore, Bangladesh. I help startups launch and grow their products. I design and code beautifully simple things, and I love what I do. I am specializing in web technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, ES6, React.js, React Router, Tanstack Query, Express.js, MongoDB, Node.js, Jsonwebtoken, Next.js, REST APIs, Figma , Firebase Auth etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals, Cyber security.
+<p align="justify">I'm a MERN stack developer based in Khulna, Bangladesh. I help startups launch and grow their products. I design and code beautifully simple things, and I love what I do. I am specializing in web technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, ES6, React.js, React Router, Next.js, Tanstack Query, Node.js, Express.js, MongoDB, Mongoose, Jsonwebtoken, REST APIs, Figma , Firebase Auth, Clerk etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals and Cyber security.
 
-I am always looking for new challenges and oppurtunities to expand my skills and knowledge, and I am excited to see where my passion for web development will take me.</p>
+I am always looking for new challenges and oppurtunities to expand my skills and knowledge, and I am excited to see where my passion for web development will take me.
+</p>
 
 - :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/aargon/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
