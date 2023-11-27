@@ -29,5 +29,15 @@ I am always looking for new challenges and oppurtunities to expand my skills and
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aargon007&label=Profile%20views&color=0e75b6&style=flat" alt="nargis21" /> </p>
 
+## 📈 My GitHub Stats:
+
+</br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aargon007&theme=highcontrast&card_width=500&border=F0FA05&stroke=F0FA05&ring=F0FA05&fire=F0FA05&sideLabels=F0FA05&currStreakLabel=F0FA05)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007)&nbsp;
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aargon007)&nbsp;
