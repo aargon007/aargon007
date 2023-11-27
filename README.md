@@ -25,8 +25,6 @@ I am always looking for new challenges and oppurtunities to expand my skills and
 
 ---
 
-### :fire: My Stats :
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aargon007&label=Profile%20views&color=0e75b6&style=flat" alt="nargis21" /> </p>
 
 ## 📈 My GitHub Stats:
@@ -38,6 +36,3 @@ I am always looking for new challenges and oppurtunities to expand my skills and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aargon007)&nbsp;
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aargon007)&nbsp;
