@@ -4,10 +4,54 @@
 
 ### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
 
-<p align="justify">I'm a MERN stack developer based in Khulna, Bangladesh. I help startups launch and grow their products. I design and code beautifully simple things, and I love what I do. I am specializing in web technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, ES6, React.js, React Router, Next.js, Tanstack Query, Node.js, Express.js, MongoDB, Mongoose, Jsonwebtoken, REST APIs, Figma , Firebase Auth, Clerk etc. I have also good knowledge about Linux, Shell scripting, Version control, Python, Cloud computing, IT fundamentals and Cyber security.
+## Hi there! 👋 I'm a Software Engineer  
 
-I am always looking for new challenges and oppurtunities to expand my skills and knowledge, and I am excited to see where my passion for web development will take me.
-</p>
+With **3 years of experience**, I help startups **launch and scale** their products. I specialize in designing and coding **beautifully simple** yet powerful solutions, and I truly love what I do.  
+
+### 🛠 Tech Stack  
+#### **Frontend**  
+- HTML5, CSS3, Bootstrap, Tailwind CSS  
+- JavaScript (ES6+), TypeScript  
+- React.js, React Router, Next.js, Framer Motion  
+
+#### **State Management**  
+- Redux Toolkit, Zustand, TanStack Query  
+
+#### **Backend**  
+- Node.js, Express.js, Nest.js  
+- GraphQL, REST APIs, JWT Authentication  
+
+#### **Databases**  
+- MongoDB, Mongoose, PostgreSQL, Prisma, Redis  
+
+#### **DevOps & Tools**  
+- Docker, NGINX, Turbo Repo  
+- AWS, Supabase, Firebase Auth, Clerk  
+
+#### **Real-time & Networking**  
+- Socket.io  
+
+#### **UI/UX & Design**  
+- Figma  
+
+### 📱 Mobile App Development  
+I'm also experienced in **React Native** and **Expo**, including:  
+- React Navigation, Reanimated  
+- Apple App Store Deployment  
+
+📲 **Published App on Apple App Store:**  
+[🛒 Orii for Florists](https://apps.apple.com/us/app/orii-for-florists/id6737502039)  
+
+### 💡 Other Skills  
+- Linux, Shell Scripting, Python  
+- Cloud Computing, Cybersecurity, IT Fundamentals  
+- Version Control (Git/GitHub)  
+
+I'm always eager for **new challenges and opportunities** to grow, and I’m excited to see where my passion for technology takes me next! 🚀  
+
+### 📫 Let's Connect!  
+Feel free to reach out if you want to collaborate or just chat about tech. 😊
+
 
 ## 📫 Reach me out:
 
