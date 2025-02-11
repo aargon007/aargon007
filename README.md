@@ -15,18 +15,21 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 - React.js, React Router, Next.js, Framer Motion  
 
 #### **State Management**  
-- Redux Toolkit, Zustand, TanStack Query  
+- Redux Toolkit, Zustand, TanStack Query, Context API  
 
 #### **Backend**  
 - Node.js, Express.js, Nest.js  
-- GraphQL, REST APIs, JWT Authentication  
+- GraphQL, REST APIs, JWT Authentication
+- **Payment Integration:** Square, Stripe  
 
 #### **Databases**  
 - MongoDB, Mongoose, PostgreSQL, SQLite, Prisma, Redis  
 
 #### **DevOps & Tools**  
 - Docker, NGINX, Turbo Repo  
-- AWS, Supabase, Firebase Auth, Clerk  
+- AWS, Supabase, Firebase Auth, Clerk
+- **CI/CD:** GitHub Actions  
+- **Monitoring & Error Tracking:** Sentry 
 
 #### **Real-time & Networking**  
 - Socket.io  
