@@ -2,7 +2,7 @@
   <img width="100%" src="./55.png" />
 </p>
 
-### About Me : <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
+### <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
 
 ## Hi there! 👋 I'm a Software Engineer  
 
@@ -10,8 +10,8 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 
 ### 🛠 Tech Stack  
 #### **Frontend**  
-- HTML5, CSS3, Bootstrap, Tailwind CSS  
-- JavaScript (ES6+), TypeScript  
+- HTML5, CSS3, Bootstrap, Tailwind CSS, Headless UI, Shadcn, Radix UI
+- JavaScript (ES6+), TypeScript
 - React.js, React Router, Next.js, Framer Motion  
 
 #### **State Management**  
@@ -22,7 +22,7 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 - GraphQL, REST APIs, JWT Authentication  
 
 #### **Databases**  
-- MongoDB, Mongoose, PostgreSQL, Prisma, Redis  
+- MongoDB, Mongoose, PostgreSQL, SQLite, Prisma, Redis  
 
 #### **DevOps & Tools**  
 - Docker, NGINX, Turbo Repo  
@@ -51,9 +51,6 @@ I'm always eager for **new challenges and opportunities** to grow, and I’m exc
 
 ### 📫 Let's Connect!  
 Feel free to reach out if you want to collaborate or just chat about tech. 😊
-
-
-## 📫 Reach me out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aargon/)
 
