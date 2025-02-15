@@ -23,7 +23,9 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 - **Payment Integration:** Square, Stripe  
 
 #### **Databases**  
-- MongoDB, Mongoose, PostgreSQL, SQLite, Prisma, Redis  
+- MongoDB, Mongoose
+- PostgreSQL, SQLite, Prisma
+- Redis  
 
 #### **DevOps & Tools**  
 - Docker, NGINX, Turbo Repo  
