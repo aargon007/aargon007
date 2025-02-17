@@ -24,7 +24,7 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 - Redis  
 
 #### **DevOps & Tools**  
-- Docker, NGINX, Turbo Repo  
+- Docker, NGINX, PM2, Turbo Repo  
 - AWS, Supabase, Firebase Auth, Clerk
 - **CI/CD:** GitHub Actions  
 - **Monitoring & Error Tracking:** Sentry 
