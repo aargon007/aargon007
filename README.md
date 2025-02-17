@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="./55.png" />
-</p>
-
 ### <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
 
 ## Hi there! 👋 I'm a Software Engineer  
