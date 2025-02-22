@@ -1,8 +1,8 @@
-# Md Muhaiminul <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
+# Md Muhaiminul
 
 With **3 years of experience**, I help startups **launch and scale** their products. I specialize in designing and coding **beautifully simple** yet powerful solutions, and I truly love what I do.  
 
-### 🛠 Tech Stack  
+# 🛠 Tech Stack  
 #### **Frontend**  
 - HTML5, CSS3, Bootstrap, Tailwind CSS, Headless UI, Shadcn, Radix UI
 - JavaScript (ES6+), TypeScript
