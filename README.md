@@ -1,6 +1,4 @@
-### <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
-
-## Hi there! 👋 I'm a Software Engineer  
+# Md Muhaiminul <a href="https://muhaiminul101.vercel.app/">Portfolio</a>
 
 With **3 years of experience**, I help startups **launch and scale** their products. I specialize in designing and coding **beautifully simple** yet powerful solutions, and I truly love what I do.  
 
