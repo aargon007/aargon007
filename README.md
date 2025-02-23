@@ -6,10 +6,11 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 #### **Frontend**  
 - HTML5, CSS3, Bootstrap, Tailwind CSS, Headless UI, Shadcn, Radix UI
 - JavaScript (ES6+), TypeScript
-- React.js, React Router, Next.js, Framer Motion  
+- React.js, React Router, Next.js, Framer Motion, GSAP
 
-#### **State Management**  
-- Redux Toolkit, Zustand, TanStack Query, Context API  
+#### **State Management & Caching**  
+- Redux Toolkit, Zustand, Context API
+- RTK Query, TanStack Query
 
 #### **Backend**  
 - Node.js, Express.js, Nest.js  
@@ -23,7 +24,7 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 
 #### **DevOps & Tools**  
 - Docker, NGINX, PM2, Turbo Repo  
-- AWS, Supabase, Firebase Auth, Clerk
+- AWS, Supabase, Firebase, Clerk
 - **CI/CD:** GitHub Actions  
 - **Monitoring & Error Tracking:** Sentry 
 
