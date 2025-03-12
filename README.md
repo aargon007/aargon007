@@ -4,9 +4,10 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 
 # 🛠 Tech Stack  
 #### **Frontend**  
-- HTML5, CSS3, Bootstrap, Tailwind CSS, Headless UI, Shadcn, Radix UI
+- HTML5, CSS3, Bootstrap, Tailwind CSS, Headless UI, Shadcn, Radix UI, MUI, Ant Design
 - JavaScript (ES6+), TypeScript
-- React.js, React Router, Next.js, Framer Motion, GSAP
+- React.js, React Router, Next.js, Astro
+- Framer Motion, GSAP
 
 #### **State Management & Caching**  
 - Redux Toolkit, Zustand, Context API
