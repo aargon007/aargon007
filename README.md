@@ -26,6 +26,7 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 #### **DevOps & Tools**  
 - Docker, NGINX, PM2, Turbo Repo  
 - AWS, Supabase, Firebase, Clerk
+- Vercel AI SDK
 - **CI/CD:** GitHub Actions  
 - **Monitoring & Error Tracking:** Sentry 
 
