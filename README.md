@@ -36,13 +36,15 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 #### **UI/UX & Design**  
 - Figma  
 
-### 📱 Mobile App Development  
-I'm also experienced in **React Native** and **Expo**, including:  
-- React Navigation, Reanimated  
+### 📱 Mobile & Desktop App Development  
+- **React Native**, **Expo**
+- React Navigation, Reanimated
+- Electron.js
 - Apple App Store Deployment  
 
 📲 **Published App on Apple App Store:**  
-[🛒 Orii for Florists](https://apps.apple.com/us/app/orii-for-florists/id6737502039)  
+[🛒 Orii for Florists](https://apps.apple.com/us/app/orii-for-florists/id6737502039)
+[🛒 Orii for Restaurants](https://apps.apple.com/us/app/orii-for-restaurants/id6744346881)
 
 ### 💡 Other Skills  
 - Linux, Shell Scripting, Python  
