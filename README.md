@@ -31,7 +31,7 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 - **Monitoring & Error Tracking:** Sentry 
 
 #### **Real-time & Networking**  
-- Socket.io  
+- Socket.io, WebRTC  
 
 #### **UI/UX & Design**  
 - Figma  
