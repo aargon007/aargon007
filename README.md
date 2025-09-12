@@ -38,7 +38,8 @@ With **3 years of experience**, I help startups **launch and scale** their produ
 
 ### 📱 Mobile & Desktop App Development  
 - **React Native**, **Expo**
-- React Navigation, Reanimated
+- React Navigation, Expo Router
+- Reanimated, Moti
 - Electron.js
 - Apple App Store Deployment  
 
@@ -64,7 +65,7 @@ Feel free to reach out if you want to collaborate or just chat about tech. 😊
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aargon007&label=Profile%20views&color=0e75b6&style=flat" alt="nargis21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aargon007&label=Profile%20views&color=0e75b6&style=flat" alt="aargon007" /> </p>
 
 ## 📈 My GitHub Stats:
 
