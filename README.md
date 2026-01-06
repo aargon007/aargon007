@@ -30,7 +30,7 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 
 #### **Databases**  
 - MongoDB, Mongoose
-- PostgreSQL, SQLite, Prisma
+- PostgreSQL, SQLite, Prisma, Sequelize
 - Redis  
 
 #### **DevOps & Tools**  
@@ -49,7 +49,8 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 ### 📱 Mobile & Desktop App Development  
 - **React Native**, **Expo**
 - React Navigation, Expo Router
-- Reanimated, Moti, Nativewind, Unistyles
+- Reanimated, Moti, Skia
+- Nativewind, Unistyles, Uniwind
 - Electron.js
 - Apple App Store Deployment  
 
