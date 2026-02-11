@@ -35,8 +35,8 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 
 #### **DevOps & Tools**  
 - Docker, NGINX, PM2, Turbo Repo  
-- AWS, Supabase, Firebase, Clerk
-- Vercel AI SDK
+- AWS, DigitalOcean, Azure, Railway
+- Supabase, Firebase, Clerk, Vercel AI SDK
 - **CI/CD:** GitHub Actions  
 - **Monitoring & Error Tracking:** Sentry 
 
