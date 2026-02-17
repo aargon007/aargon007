@@ -35,7 +35,7 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 
 #### **DevOps & Tools**  
 - Docker, NGINX, PM2, Turbo Repo  
-- AWS, DigitalOcean, Azure, Railway
+- AWS, DigitalOcean, Azure, Railway, Coolify
 - Supabase, Firebase, Clerk, Vercel AI SDK
 - **CI/CD:** GitHub Actions  
 - **Monitoring & Error Tracking:** Sentry 
@@ -56,7 +56,9 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 
 📲 **Published App on Apple App Store:**  
 [🛒 Orii for Florists](https://apps.apple.com/us/app/orii-for-florists/id6737502039)
-[🛒 Orii for Restaurants](https://apps.apple.com/us/app/orii-for-restaurants/id6744346881)
+[🍽️ Orii for Restaurants](https://apps.apple.com/us/app/orii-for-restaurants/id6744346881)
+[🏆 Sports Addict Store](https://apps.apple.com/us/app/sports-addict-store/id6478872775)
+[🛗 SEES INC.](https://apps.apple.com/us/app/sees-inc/id6751755480)
 
 ### 💡 Other Skills  
 - Linux, Shell Scripting, Python  
