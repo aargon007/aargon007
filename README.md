@@ -54,7 +54,8 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 - Electron.js, Tauri
 - Apple App Store Deployment and Play Store Deployment
 
-📲 **Published App on Apple App Store:**
+📲 **Published App on Apple App Store:** 
+
 [👕 Dripcheck](https://apps.apple.com/ca/app/dripcheck/id6741929556)
 [🏀 Sports Addict Store](https://apps.apple.com/us/app/sports-addict-store/id6478872775)
 [🛗 SEES INC.](https://apps.apple.com/us/app/sees-inc/id6751755480)
