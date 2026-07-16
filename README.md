@@ -1,6 +1,6 @@
 # Md Muhaiminul
 
-With **3 years of experience**, I help startups **launch and scale** their products. I specialize in **Full-Stack Development, Mobile App Development, and Cloud Infrastructure** using React, Next.js, TypeScript, Node.js, React Native, Electron.js, AWS, and modern DevOps.
+With **3 years of experience**, I help startups **launch and scale** their products. I specialize in **Full-Stack Development, Mobile and Desktop App Development, and Cloud Infrastructure** using React, Next.js, TypeScript, Node.js, React Native, Electron.js, Tauri, AWS and modern DevOps.
 
 # 📫 Let's Connect!
 Feel free to reach out if you want to collaborate, discuss opportunities, or just chat about tech. 😊
@@ -16,7 +16,7 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 #### **Frontend**  
 - HTML5, CSS3, Bootstrap, Tailwind CSS, Headless UI, Shadcn, Radix UI, MUI, Ant Design
 - JavaScript (ES6+), TypeScript
-- React.js, React Router, Next.js, Astro
+- React.js, React Router, Next.js, Astro, Svelte
 - Framer Motion, GSAP
 
 #### **State Management & Caching**  
@@ -26,7 +26,7 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 #### **Backend**  
 - Node.js, Express.js, Nest.js  
 - GraphQL, REST APIs, JWT Authentication
-- **Payment Integration:** Square, Stripe  
+- **Payment Integration:** Square, Stripe, RevenueCat
 
 #### **Databases**  
 - MongoDB, Mongoose
@@ -51,14 +51,15 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 - React Navigation, Expo Router
 - Reanimated, Moti, Skia
 - Nativewind, Unistyles, Uniwind
-- Electron.js
-- Apple App Store Deployment  
+- Electron.js, Tauri
+- Apple App Store Deployment and Play Store Deployment
 
-📲 **Published App on Apple App Store:**  
+📲 **Published App on Apple App Store:**
+[👕 Dripcheck](https://apps.apple.com/ca/app/dripcheck/id6741929556)
+[🏀 Sports Addict Store](https://apps.apple.com/us/app/sports-addict-store/id6478872775)
+[🛗 SEES INC.](https://apps.apple.com/us/app/sees-inc/id6751755480)
 [🛒 Orii for Florists](https://apps.apple.com/us/app/orii-for-florists/id6737502039)
 [🍽️ Orii for Restaurants](https://apps.apple.com/us/app/orii-for-restaurants/id6744346881)
-[🏆 Sports Addict Store](https://apps.apple.com/us/app/sports-addict-store/id6478872775)
-[🛗 SEES INC.](https://apps.apple.com/us/app/sees-inc/id6751755480)
 
 ### 💡 Other Skills  
 - Linux, Shell Scripting, Python  
