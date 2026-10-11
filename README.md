@@ -1,6 +1,6 @@
 # Md Muhaiminul
 
-With **3+ years of experience**, I help startups **launch and scale** their products. I specialize in **Full-Stack Development, Mobile and Desktop App Development, and Cloud Infrastructure** using React, Next.js, TypeScript, Node.js, React Native, Electron.js, Tauri, AWS and modern DevOps.
+With **3+ years of experience**, I help startups **launch and scale** their products. I specialize in **Full-Stack Development, Mobile and Desktop App Development, and Cloud Infrastructure** using React, Next.js, Node.js, React Native, Kotlin, Electron.js, Tauri, AWS and modern DevOps.
 
 # 📫 Let's Connect!
 Feel free to reach out if you want to collaborate, discuss opportunities, or just chat about tech. 😊
