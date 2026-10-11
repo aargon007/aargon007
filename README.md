@@ -50,7 +50,6 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 - **Kotlin**, **Jetpack compose**
 - **React Native**, **Expo**
 - React Navigation, Expo Router
-- Reanimated, Moti, Skia
 - Nativewind, Unistyles, Uniwind
 - Electron.js, Tauri
 - Apple App Store Deployment and Play Store Deployment
