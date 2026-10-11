@@ -1,6 +1,6 @@
 # Md Muhaiminul
 
-With **3 years of experience**, I help startups **launch and scale** their products. I specialize in **Full-Stack Development, Mobile and Desktop App Development, and Cloud Infrastructure** using React, Next.js, TypeScript, Node.js, React Native, Electron.js, Tauri, AWS and modern DevOps.
+With **3+ years of experience**, I help startups **launch and scale** their products. I specialize in **Full-Stack Development, Mobile and Desktop App Development, and Cloud Infrastructure** using React, Next.js, TypeScript, Node.js, React Native, Electron.js, Tauri, AWS and modern DevOps.
 
 # 📫 Let's Connect!
 Feel free to reach out if you want to collaborate, discuss opportunities, or just chat about tech. 😊
@@ -34,7 +34,7 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 - Redis  
 
 #### **DevOps & Tools**  
-- Docker, NGINX, PM2, Turbo Repo  
+- Linux, Docker, NGINX, PM2, Turborepo  
 - AWS, DigitalOcean, Azure, Railway, Coolify
 - Supabase, Firebase, Clerk, Vercel AI SDK
 - **CI/CD:** GitHub Actions  
@@ -47,12 +47,14 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 - Figma  
 
 ### 📱 Mobile & Desktop App Development  
+- **Kotlin**, **Jetpack compose**
 - **React Native**, **Expo**
 - React Navigation, Expo Router
 - Reanimated, Moti, Skia
 - Nativewind, Unistyles, Uniwind
 - Electron.js, Tauri
 - Apple App Store Deployment and Play Store Deployment
+- Android Studio, XCode
 
 📲 **Published App on Apple App Store:** 
 
@@ -60,10 +62,9 @@ Feel free to reach out if you want to collaborate, discuss opportunities, or jus
 [🏀 Sports Addict Store](https://apps.apple.com/us/app/sports-addict-store/id6478872775)
 [🛗 SEES INC.](https://apps.apple.com/us/app/sees-inc/id6751755480)
 [🛒 Orii for Florists](https://apps.apple.com/us/app/orii-for-florists/id6737502039)
-[🍽️ Orii for Restaurants](https://apps.apple.com/us/app/orii-for-restaurants/id6744346881)
 
 ### 💡 Other Skills  
-- Linux, Shell Scripting, Python  
+- Shell Scripting, Python  
 - Cloud Computing, Cybersecurity, IT Fundamentals  
 - Version Control (Git/GitHub)  
 
